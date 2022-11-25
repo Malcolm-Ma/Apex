@@ -1,0 +1,6 @@
+[submodule "service"]
+	path = service
+	url = https://github.com/Malcolm-Ma/BE-review-of-academic-paper
+[submodule "web"]
+	path = web
+	url = https://github.com/Malcolm-Ma/FE-review-of-academic-paper
