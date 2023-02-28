@@ -6,4 +6,4 @@ See more in [front end](https://github.com/Malcolm-Ma/FE-review-of-academic-pape
 
 ## Synchronization Strategy
 
-[Dependabot](/blob/main/.github/dependabot.yml) scans the front-end and back-end code repositories every business day, and once it detects an update, bot automatically synchronizes the code to this repository.
+[Dependabot](/.github/dependabot.yml) scans the front-end and back-end code repositories every business day, and once it detects an update, bot automatically synchronizes the code to this repository via [actions](/actions/workflows/dependabot.yml).
