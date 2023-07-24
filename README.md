@@ -2,7 +2,15 @@
 
 A Web Server to Support the Review of Academic Papers for Conferences or Universities
 
-See more in [front end](https://github.com/Malcolm-Ma/FE-review-of-academic-paper) and [back end](https://github.com/Malcolm-Ma/BE-review-of-academic-paper) repo.
+See more in [**front end**](https://github.com/Malcolm-Ma/FE-review-of-academic-paper) and [**back end**](https://github.com/Malcolm-Ma/BE-review-of-academic-paper) repo.
+
+## Live Demo
+
+[https://malcolmpro.com/](https://malcolmpro.com/)
+
+### Account Detail
+
+To get more account to test, please click [here](https://malcolmpro.com/login_info.csv).
 
 ## Synchronization Strategy
 
